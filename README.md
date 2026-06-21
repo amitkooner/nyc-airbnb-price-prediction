@@ -1,5 +1,7 @@
 # New York Airbnb Open Data 2024 Project
 
+> Capstone project for the [DataTalks.Club Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp).
+
 ## 1. Problem Description and Solution Usage
 
 ### Problem Statement
